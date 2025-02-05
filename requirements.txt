@@ -1,7 +1,7 @@
-streamlit
-pandas
-numpy
-openpyxl
-xlsxwriter
-unicodedata
+streamlit==1.27.2
+pandas==2.1.1
+numpy==1.25.2
+openpyxl==3.1.2
+xlsxwriter==3.1.2
+unicodedata2==15.0.0
 
